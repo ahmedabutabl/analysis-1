@@ -26,3 +26,5 @@ print()
 # The region with the highest revenue.
 best_region = revenue_by_region.idxmax()
 print("Best region:", best_region)
+
+print("hello world")
